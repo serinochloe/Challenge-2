@@ -14,7 +14,7 @@ N/A
 
 Challenge 2 is a demonstration of all that I've learned of HTML and CSS so far. It demonstrates flex box styling, media queries, and other CSS styling functions. 
 
-##Acceptance Criteris 
+## Acceptance Criteris 
 
 The acceptance criteria for this challenge was: 
 GIVEN I need to sample a potential employee's previous work
