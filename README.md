@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is my first attempt at an online portfolio. 
+This project is my first attempt at an online portfolio. https://serinochloe.github.io/Chloe-Serino-Portfolio/ 
 
 
 ## Installation
